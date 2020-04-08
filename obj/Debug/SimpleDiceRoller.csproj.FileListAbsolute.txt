@@ -1,0 +1,10 @@
+C:\Users\blue-\source\repos\SimpleDiceRoller\SimpleDiceRoller\bin\Debug\SimpleDiceRoller.exe.config
+C:\Users\blue-\source\repos\SimpleDiceRoller\SimpleDiceRoller\bin\Debug\SimpleDiceRoller.exe
+C:\Users\blue-\source\repos\SimpleDiceRoller\SimpleDiceRoller\bin\Debug\SimpleDiceRoller.pdb
+C:\Users\blue-\source\repos\SimpleDiceRoller\SimpleDiceRoller\obj\Debug\SimpleDiceRoller.csprojAssemblyReference.cache
+C:\Users\blue-\source\repos\SimpleDiceRoller\SimpleDiceRoller\obj\Debug\SimpleDiceRoller.Mainform.resources
+C:\Users\blue-\source\repos\SimpleDiceRoller\SimpleDiceRoller\obj\Debug\SimpleDiceRoller.Properties.Resources.resources
+C:\Users\blue-\source\repos\SimpleDiceRoller\SimpleDiceRoller\obj\Debug\SimpleDiceRoller.csproj.GenerateResource.cache
+C:\Users\blue-\source\repos\SimpleDiceRoller\SimpleDiceRoller\obj\Debug\SimpleDiceRoller.csproj.CoreCompileInputs.cache
+C:\Users\blue-\source\repos\SimpleDiceRoller\SimpleDiceRoller\obj\Debug\SimpleDiceRoller.exe
+C:\Users\blue-\source\repos\SimpleDiceRoller\SimpleDiceRoller\obj\Debug\SimpleDiceRoller.pdb
