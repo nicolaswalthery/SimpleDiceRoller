@@ -18,7 +18,7 @@ namespace SimpleDiceRoller
         {
             InitializeComponent();
         }
-        //[1] textBox: The user can insert here the number of dice and the sides of them.
+
         private void textBoxNDice_TextChanged(object sender, EventArgs e)
         {
 
@@ -27,7 +27,7 @@ namespace SimpleDiceRoller
         {
 
         }
-        //[2] Then the user can clic the buttonToller to generate the outcome of the dice previously defined.
+        //[1] Here the user can clic the buttonToller to generate the outcome of the dice previously defined.
         private void buttonRoller_Click(object sender, EventArgs e)
         {
             //Align (Center) the text diplayed in the richTextBoxOutcome
@@ -47,7 +47,7 @@ namespace SimpleDiceRoller
 
             richTextBoxOutcome.Text = die.ThrowIt.ToString();
         }
-        //[3] This is in that textBox that the outcome of the die will be display.
+        //[2] This is in that textBox that the outcome of the die will be display.
         private void richTextBox1_TextChanged(object sender, EventArgs e) //richTextBoxOutcome
         {
         }
