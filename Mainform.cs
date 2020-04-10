@@ -51,10 +51,7 @@ namespace SimpleDiceRoller
         private void richTextBox1_TextChanged(object sender, EventArgs e) //richTextBoxOutcome
         {
         }
-
-
-
-        //???????
+        
         private void labelNumSides_Click(object sender, EventArgs e)
         {
         }
